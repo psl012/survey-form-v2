@@ -8,7 +8,7 @@ const Constants     = require("./config/constants");
 
 /* 
     DOCU: Session Provider 
-    Set the session settings to be used
+    Set the session settings to be used lala
 */
 let session_setting = {
     secret: Constants.SESSION_SECRET,
